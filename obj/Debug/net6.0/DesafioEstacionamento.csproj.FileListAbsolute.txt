@@ -1,0 +1,15 @@
+D:\projetos\backend\dotnet\EstacionamentoDio\desafioestacionamento\bin\Debug\net6.0\DesafioEstacionamento.exe
+D:\projetos\backend\dotnet\EstacionamentoDio\desafioestacionamento\bin\Debug\net6.0\DesafioEstacionamento.deps.json
+D:\projetos\backend\dotnet\EstacionamentoDio\desafioestacionamento\bin\Debug\net6.0\DesafioEstacionamento.runtimeconfig.json
+D:\projetos\backend\dotnet\EstacionamentoDio\desafioestacionamento\bin\Debug\net6.0\DesafioEstacionamento.dll
+D:\projetos\backend\dotnet\EstacionamentoDio\desafioestacionamento\bin\Debug\net6.0\DesafioEstacionamento.pdb
+D:\projetos\backend\dotnet\EstacionamentoDio\desafioestacionamento\obj\Debug\net6.0\DesafioEstacionamento.csproj.AssemblyReference.cache
+D:\projetos\backend\dotnet\EstacionamentoDio\desafioestacionamento\obj\Debug\net6.0\DesafioEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\backend\dotnet\EstacionamentoDio\desafioestacionamento\obj\Debug\net6.0\DesafioEstacionamento.AssemblyInfoInputs.cache
+D:\projetos\backend\dotnet\EstacionamentoDio\desafioestacionamento\obj\Debug\net6.0\DesafioEstacionamento.AssemblyInfo.cs
+D:\projetos\backend\dotnet\EstacionamentoDio\desafioestacionamento\obj\Debug\net6.0\DesafioEstacionamento.csproj.CoreCompileInputs.cache
+D:\projetos\backend\dotnet\EstacionamentoDio\desafioestacionamento\obj\Debug\net6.0\DesafioEstacionamento.dll
+D:\projetos\backend\dotnet\EstacionamentoDio\desafioestacionamento\obj\Debug\net6.0\refint\DesafioEstacionamento.dll
+D:\projetos\backend\dotnet\EstacionamentoDio\desafioestacionamento\obj\Debug\net6.0\DesafioEstacionamento.pdb
+D:\projetos\backend\dotnet\EstacionamentoDio\desafioestacionamento\obj\Debug\net6.0\DesafioEstacionamento.genruntimeconfig.cache
+D:\projetos\backend\dotnet\EstacionamentoDio\desafioestacionamento\obj\Debug\net6.0\ref\DesafioEstacionamento.dll
